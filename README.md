@@ -25,3 +25,7 @@ Build my own. Designed for a RaspberryPi with a small touch screen.
 ## Tech stack
 SpringBoot, with a fullscreen-able Angular frontend. 
 
+## Links
+* https://www.w3schools.com/howto/howto_js_fullscreen.asp
+* 
+
