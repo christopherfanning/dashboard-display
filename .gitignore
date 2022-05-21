@@ -38,3 +38,6 @@ out/
 
 node_modules/
 
+## Angular stuff
+/src/main/resources/public
+
